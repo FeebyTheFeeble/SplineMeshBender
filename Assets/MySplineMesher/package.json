@@ -1,0 +1,13 @@
+{
+  "name": "com.yourstudio.mysplinemesher",
+  "displayName": "My Spline Mesher",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Repeats and bends a mesh along a Unity spline. Build roads, fences, pipes, cables and more with prefab end caps, ground conforming, per-point roll/scale/vertex color and automatic colliders.",
+  "documentationUrl": "https://example.com/spline-mesher/docs",
+  "keywords": [ "spline", "mesh", "road", "fence", "pipe", "deform", "procedural" ],
+  "author": { "name": "Your Studio", "url": "https://example.com" },
+  "dependencies": {
+    "com.unity.splines": "2.5.0"
+  }
+}

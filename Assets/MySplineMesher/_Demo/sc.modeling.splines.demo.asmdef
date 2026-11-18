@@ -1,0 +1,21 @@
+{
+    "name": "SC.Modeling.Splines.Demo",
+    "rootNamespace": "SC.Modeling.Splines.Demo",
+    "references": [
+        "SC.Modeling.Splines.Runtime",
+        "SC.Modeling.Splines.Editor",
+        "Unity.Splines",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
